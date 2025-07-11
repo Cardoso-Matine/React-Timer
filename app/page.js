@@ -31,7 +31,7 @@ export default function Timer() {
       >
         {isRunning ? 'Pause' : 'Start'}
       </button>
-      <button onClick={() => setTime(0)}>Zerar</button>
+      <button onClick={() => setTime(0)}>Reset</button>
     </div>
   );
 }
