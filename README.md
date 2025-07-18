@@ -20,4 +20,4 @@ A simple counter built with Next.js, React hooks (useState, useEffect), and zero
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-timer.git
+git clone https://github.com/Cardoso-Matine/React-Timer.git
